@@ -14,4 +14,5 @@ select.addEventListener('change', function() {
     alert("You selected " + selectedCountry);
 })
 
+
 /* It is working because I have asked chat GPT, but there are things that are not assigned to any value so I don't understand why is working. For exmaple: selectedIndex, selectedOption, options... */
